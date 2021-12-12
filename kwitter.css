@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#fh1{
+    color: darkred;
+}
+#ip1{
+    width: 300px;
+    height: 2px;
+    background-color: blue;
+}
